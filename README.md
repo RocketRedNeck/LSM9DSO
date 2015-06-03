@@ -10,7 +10,7 @@ The outputs of all sensors are available over an I2C or SPI interface you can ch
 The LSM9DS0 IMU can be used as a very powerful control mechanism for UAVs, 
 autonomous vehicles and image stabilization systems or any other system, the only limit is your imagination.
 
-More information for this repo can be found on the [![9DOF IMU]*Drotek.fr product page *](http://www.drotek.fr/shop/fr/home/677-imu-9dof-lsm9ds0-stmicroelectronics.html)
+More information for this repo can be found on the [Drotek.fr product page](http://www.drotek.fr/shop/fr/home/677-imu-9dof-lsm9ds0-stmicroelectronics.html)
 
 Repository Contents
 -------------------
