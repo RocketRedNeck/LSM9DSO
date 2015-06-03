@@ -1,7 +1,7 @@
 LSM9DSO  9 Degrees of Freedom IMU
 ======================================
 
-[![9DOF IMU](http://www.hostingpics.net/viewer.php?id=875364imu9doflsm9ds0stmicroelectronics.jpg)  
+[![9DOF IMU](http://www.drotek.fr/shop/2285-thickbox_square_zen/imu-9dof-lsm9ds0-stmicroelectronics.jpg)  
 *9 Degrees of Freedom-Razor IMU (SEN-10736)*](https://www.sparkfun.com/products/10736)
 
 The 9DOF Razor IMU incorporates three sensors - an ITG-3200 (MEMS triple-axis gyro), ADXL345 (triple-axis accelerometer), and HMC5883L (triple-axis magnetometer) - 
