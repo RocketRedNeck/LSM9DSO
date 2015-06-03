@@ -14,7 +14,7 @@ More information for this repo can be found on the [Drotek.fr product page](http
 
 Repository Contents
 -------------------
-* **/Firmware** - Any Arduino library needed to used this product, 
+* **/Software** - Any Arduino library needed to used this product, 
 * **/Hardware** - PDF design files
 
 License Information
